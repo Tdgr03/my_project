@@ -1,6 +1,6 @@
 
 
-![Çalışma Mantığı](img/calismamantigi.png)
+![Çalışma Mantığı](img/git-çalışma-mantığı.png)
 
 
 
