@@ -1,3 +1,10 @@
+
+
+![Çalışma Mantığı](img/calismamantigi.png)
+
+
+
+
 # 🌟 GitHub Projem
 
 Bu proje, Git/GitHub komutlarını öğrenmek ve temel bir yazılım geliştirme sürecini deneyimlemek için hazırlanmıştır.
